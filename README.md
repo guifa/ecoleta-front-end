@@ -1,3 +1,9 @@
+Ecoleta Front-end
+==============================
+
+Fron-end do aplicativo Ecoleta em reactjs, para ajudar na coleta de lixo.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
